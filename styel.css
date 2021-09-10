@@ -1,0 +1,415 @@
+.backgroun{
+    background-color: #0B2239 !important;
+    
+}
+.navbar-brand{
+    color: #fff;
+}
+.navbar-brand:hover{
+    color: #fff;
+}
+.nav-link{
+    color: #cfd9e0 !important;
+}
+.nav-link:hover{
+    color: #eff3f6 !important;
+}
+.loginactive{
+    color: #fff !important;
+    font-weight: bolder !important;
+}
+.registerstyel{
+    border: 1px solid #fff !important;
+    color: #fff !important;
+    
+}
+.registerstyel:hover{
+    background: #eff3f634 !important;
+}
+.btn-styel{
+    color: white;
+    background: none;
+    border: 1px solid #fff;
+    padding: 3px;
+}
+.btn-styel:hover{
+    color: white;
+    background: rgba(255, 255, 255, 0.287) ;
+}
+
+
+.benar-content{
+    text-align: center;
+}
+.banner-link{
+    display:inline-block;
+    text-align: center;
+}
+.link-b{
+    text-decoration: none;
+    color: #7e7b7b;
+}
+.link-b:hover{
+    color: #7e7b7b;
+}
+.btn-color{
+    background: #2BC48A;
+    color: white;
+}
+.btn-color:hover{
+    color: white;
+    background: #2bc489e7;
+}
+.btn-color1{
+    border: 2px solid #908a8a;
+}
+.banner-btn{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.img-wrapper {  
+    overflow: hidden; 
+  }
+  
+  .inner-img {
+    transition: 0.3s;
+  }
+  
+  .inner-img:hover {
+    transform: scale(1.1);
+  }
+  .card{
+   text-align: center;
+   
+  }
+  .icon-card:hover{
+      box-shadow: 3px 4px 10px #908a8a;
+  }
+  .card-1{
+      margin-top: 50px;
+  }
+  .card-link{
+      text-decoration: none;
+      display: inline-block;
+      color: black;
+  }
+  .card-link:hover{
+      color: black;
+  }
+  .navbar-brand{
+      font-size: 30px;
+  }
+  .btn-st{
+      border: none;
+  }
+  .btn-st:hover{
+      background: rgba(46, 195, 46, 0.87);
+  }
+  
+  
+  .card-body ul li{
+      list-style: none;
+      display: inline-block;
+      padding: 0 25px;
+  }
+  .stiker{
+      margin-top: 50px;
+  }
+  .icon-section{
+      margin-top: 80px;
+  }
+  .icon-titell{
+      font-size: 30px;
+  }
+ .icon-peragreps{
+     margin-top: 18px;
+     color: #2c2727;
+ }
+.btn-icon{
+    padding: 8px 20px;
+    background: #2BC48A;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+.icon-img{
+    margin-top: 50px;
+}
+.tools{
+    text-align: center;
+    margin-top: 50px;
+}
+.tools-haddin{
+    font-size: 35px;
+}
+.tools-peragresp{
+    font-size: 20px;
+}
+.claction-icon{
+    float: left;
+    font-size: 20px;
+    color: #908a8a;
+}
+.claction-link{
+    text-decoration: none;
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #2BC48A;
+}
+.claction-link:hover{
+    color: #2BC48A;
+}
+.claction-link1{
+    text-decoration: none;
+    margin-left: 22px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+}
+.claction-link1:hover{
+    color: black;
+}
+.culection{
+    margin-top: 30px;
+}
+.c-pergers{
+    margin-left: 22px;
+    color: #6b6161;
+    margin-top: 10px;
+}
+.c-link{
+    text-decoration: none;
+    color: #2BC48A;
+}
+.c-link:hover{
+    text-decoration: underline;
+    color: #2BC48A;
+}
+.c-img{
+    margin-left: 30px;
+}
+.flaticon-haddin{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.flaticon-pregreps{
+    color: #1d1b1b;
+}
+.btnflat{
+    border: 1px solid #2BC48A;
+    padding: 10px 20px;
+    background: #2BC48A;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+}
+.btnflat:hover{
+    background: #2bc489c0;
+}
+.content-flaticon{
+    margin-top: 70px;
+}
+.flaticon-card{
+    margin-top: 50px;
+}
+.card-group>.card {
+    flex: 1 0 0%;
+    margin-bottom: 0;
+    margin-right: 10px;
+}
+
+.earn-maney{
+    background-color: #0E2A47;
+    padding: 60px 0;
+    border-radius: 10px;
+    color: white;
+    margin-top: 50px;
+}
+.earn-maney-hading{
+    color: white;
+    padding: 0 30px;
+    font-size: 30px;
+}
+.earn-maney-hading1{
+    color: white;
+    padding: 0 30px;
+    font-size: 20px;
+}
+.earn-maney-hading{
+    float: left;
+}
+.earn-img img{
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+.container .input{
+	border: 0;
+	outline: none;
+	color: #8b7d77;
+    
+}
+
+.search_wrap{
+	width: 500px;
+	margin: 38px 283px;
+}
+
+.search_wrap .search_box{
+	position: relative;
+	width: 700px;
+	height: 60px;
+}
+
+.search_wrap .search_box .input{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 10px 20px;
+	border-radius: 3px;
+	font-size: 18px;
+}
+
+.search_wrap .search_box .btn{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 60px;
+	height: 70%;
+	background: #4AD295;
+	z-index: 1;
+	cursor: pointer;
+}
+
+.search_wrap .search_box .btn:hover{
+	background: #4AD295;	
+}
+
+.search_wrap .search_box .btn.btn_common .fas{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #fff;
+	font-size: 20px;
+}
+
+.search_wrap.search_wrap_1 .search_box .btn{
+	right: 0;
+	border-top-right-radius: 3px;
+	border-bottom-right-radius: 3px;
+}
+
+
+
+
+
+
+
+
+
+
+/* this is radio  */
+  
+  /* .container {
+    margin-top: 10px;
+    padding: 0px;
+  } */
+  
+  .select-box {
+    display: flex;
+    width: 90px;
+    flex-direction: column;
+    position: absolute;
+    margin-top: -87px;
+    margin-left: 195px;
+  }
+  
+  .select-box .options-container {
+    background: #fff;
+    color: #1d1b1b;
+    max-height: 0;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.4s;
+    border-radius: 8px;
+    overflow: hidden;
+  
+    order: 1;
+  }
+  
+  .selected {
+    background: #fff;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    color: #1d1b1b;
+    position: relative;
+    padding: 6px 14px !important;
+    order: 0;
+    border-right: 1px solid #6b6161;
+  }
+  
+  .selected::after {
+    content: "";
+    background: url("img/arrow-down.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+  
+    position: absolute;
+    height: 100%;
+    width: 32px;
+    right: 10px;
+    top: 5px;
+  
+    transition: all 0.4s;
+  }
+  
+  .select-box .options-container.active {
+    max-height: 240px;
+    opacity: 1;
+    overflow-y: scroll;
+  }
+  
+  .select-box .options-container.active + .selected::after {
+    transform: rotateX(180deg);
+    top: -6px;
+  }
+  
+  .select-box .options-container::-webkit-scrollbar {
+    width: 8px;
+    background: #fff;
+    border-radius: 0 8px 8px 0;
+  }
+  
+  .select-box .options-container::-webkit-scrollbar-thumb {
+    background: #fff;
+    border-radius: 0 8px 8px 0;
+  }
+  
+  .select-box .option,
+  .selected {
+    padding: 12px 24px;
+    cursor: pointer;
+  }
+  
+  .select-box .option:hover {
+    background: #fff;
+  }
+  
+  .select-box label {
+    cursor: pointer;
+  }
+  
+  .select-box .option .radio {
+    display: none;
+  }
